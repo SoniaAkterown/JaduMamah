@@ -1,0 +1,187 @@
+{
+  "users": [
+    {
+      "USER_ID": 1,
+      "NAME": "Sonia Akter",
+      "EMAIL": "sonia.akterown@gmail.com",
+      "PASSWORD_HASH": "demo_secure_hash_89234",
+      "HEADLINE": "Growth Marketer & AI Content Strategist | Helping Brands Scale",
+      "AVATAR_URL": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=150&auto=format&fit=crop&q=80",
+      "CREATED_AT": "2026-09-15T18:10:06.475Z",
+      "PLATFORM": "linkedin"
+    },
+    {
+      "USER_ID": 2,
+      "NAME": "Sonia Akter",
+      "EMAIL": "sonia.facebook@creator.com",
+      "PASSWORD_HASH": "social_hash_facebook_1789816682491",
+      "HEADLINE": "Digital Content Creator & Social Media Influencer (120K+ Followers)",
+      "AVATAR_URL": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
+      "PLATFORM": "facebook",
+      "CREATED_AT": "2026-09-19T11:18:02.491Z"
+    },
+    {
+      "USER_ID": 3,
+      "NAME": "Sonia Akter Official",
+      "EMAIL": "sonia.youtube@creator.com",
+      "PASSWORD_HASH": "social_hash_youtube_1789816683918",
+      "HEADLINE": "Tech & Lifestyle YouTuber | 85K Subscribers",
+      "AVATAR_URL": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=150&auto=format&fit=crop&q=80",
+      "PLATFORM": "youtube",
+      "CREATED_AT": "2026-09-19T11:18:03.918Z"
+    }
+  ],
+  "posts": [
+    {
+      "POST_ID": 106,
+      "USER_ID": 1,
+      "TOPIC": "কর্মক্ষেত্রে ধারাবাহিকতা ও সময় ব্যবস্থাপনা",
+      "TONE": "Thought Leadership",
+      "CONTENT": "প্রতিদিন একই কাজ করে সাফল্যের শিখরে পৌঁছানোর রহস্যটা কি আসলেই কোনো 'শর্টকাট'? মোটেও না!\n\nকর্মক্ষেত্রে আমরা প্রায়ই বড় বড় প্রজেক্ট বা রাতারাতি সাফল্যের পেছনে ছুটি। কিন্তু আমি আমার ক্যারিয়ারে একটি বিষয় বারবার দেখেছি—অসাধারণ সাফল্য আসলে কোনো জাদুকরী মুহূর্ত নয়। এটি হলো ছোট ছোট কাজের প্রতিদিনের ধারাবাহিকতা। যখন আপনি আপনার সময়ের সঠিক ব্যবহার নিশ্চিত করেন, তখন আপনার কাজের আউটপুট কয়েক গুণ বেড়ে যায়। সময় ব্যবস্থাপনা মানে কেবল ঘড়ির কাঁটা ধরে চলা নয়, বরং আপনার শক্তির সঠিক জায়গায় বিনিয়োগ করা। প্রতিদিনের রুটিনে ১ ঘণ্টা ফোকাসড কাজ, বছরের শেষে বিশাল পরিবর্তনের জন্ম দেয়। শৃঙ্খলা বা ডিসিপ্লিন যখন অভ্যাসে পরিণত হয়, তখন লক্ষ্য অর্জন হয়ে ওঠে অনিবার্য। তাই দিনের শুরুতে আপনার অগ্রাধিকারগুলো ঠিক করুন এবং সেগুলোতে অটল থাকুন। মনে রাখবেন, প্রতিভা হয়তো আপনাকে শুরু করার সুযোগ করে দেবে, কিন্তু ধারাবাহিকতা আপনাকে জয়ী করবে।\n\nআপনার কর্মজীবনে ধারাবাহিকতা বজায় রাখার সেরা কৌশল কোনটি? কমেন্টে জানান!\n\n#CareerGrowth #Productivity #TimeManagement #ProfessionalDevelopment #Leadership",
+      "HASHTAGS": "#CareerGrowth #Productivity #TimeManagement #ProfessionalDevelopment #Leadership",
+      "CREATED_AT": "2026-09-15T18:27:51.962Z"
+    },
+    {
+      "POST_ID": 105,
+      "USER_ID": 1,
+      "TOPIC": "Artificial Intelligence in Content Marketing",
+      "TONE": "Thought Leadership",
+      "CONTENT": "AI isn't here to replace your creativity; it's here to scale your impact.\n\nThe fear surrounding Artificial Intelligence in content marketing often stems from a misunderstanding of its role. Many believe that if a machine can write a draft, the strategist becomes obsolete. The reality is quite the opposite. AI is a tool for rapid iteration, data-driven insights, and deep audience research. When you delegate the repetitive tasks of formatting, SEO tagging, and basic outlining to AI, you unlock hours of mental bandwidth for what truly matters: high-level strategy, original storytelling, and authentic connection. The best content creators of 2024 aren't those who let AI write for them, but those who use it to refine their unique perspective. It is about augmenting human intuition with machine efficiency. If you are still worried about AI taking your seat, focus on your point of view. A bot can generate information, but it cannot replicate your lived experience or your specific brand of wisdom. Leverage the tech, but keep your voice the anchor.\n\nHow are you balancing AI automation with your personal human touch in your content workflow?\n\n#ContentStrategy #ArtificialIntelligence #MarketingTrends #ThoughtLeadership",
+      "HASHTAGS": "#ContentStrategy #ArtificialIntelligence #MarketingTrends #ThoughtLeadership",
+      "CREATED_AT": "2026-09-15T18:26:38.091Z"
+    },
+    {
+      "POST_ID": 104,
+      "USER_ID": 1,
+      "TOPIC": "Remote Work Productivity Hacks",
+      "TONE": "Thought Leadership",
+      "CONTENT": "🚀 Most people overcomplicate Remote Work Productivity Hacks. Here is the 3-step framework that changed everything:\n\n18 months ago, I thought success in this area required 80-hour weeks and constant grind.\n\nThen I realized high performers do 3 things differently:\n\n💡 1. Ruthless Prioritization: Cut the noise and protect the single daily task that moves the needle.\n📌 2. Systems Over Motivation: Build a process so clear that execution requires zero willpower.\n🎯 3. Public Accountability: Share what you learn in real-time, invite feedback, and iterate quickly.\n\nMastery isn't about doing more things—it's about doing the right things with relentless consistency.\n\nWhat is your #1 takeaway when dealing with Remote Work Productivity Hacks?\n\n#RemoteWorkProductivityHacks #Leadership #Innovation #Productivity",
+      "HASHTAGS": "#RemoteWorkProductivityHacks #Leadership #Innovation #Productivity",
+      "CREATED_AT": "2026-09-15T18:26:04.932Z"
+    },
+    {
+      "POST_ID": 103,
+      "USER_ID": 1,
+      "TOPIC": "Updated Post",
+      "TONE": "Thought Leadership",
+      "CONTENT": "🚀 Most people overcomplicate Updated Post. Here is the 3-step framework that changed everything:\n\n18 months ago, I thought success in this area required 80-hour weeks and constant grind.\n\nThen I realized high performers do 3 things differently:\n\n💡 1. Ruthless Prioritization: Cut the noise and protect the single daily task that moves the needle.\n📌 2. Systems Over Motivation: Build a process so clear that execution requires zero willpower.\n🎯 3. Public Accountability: Share what you learn in real-time, invite feedback, and iterate quickly.\n\nMastery isn't about doing more things—it's about doing the right things with relentless consistency.\n\nWhat is your #1 takeaway when dealing with Updated Post?\n\n#UpdatedPost #Leadership #Innovation #Productivity",
+      "HASHTAGS": "#UpdatedPost #Leadership #Innovation #Productivity",
+      "CREATED_AT": "2026-09-15T18:22:18.924Z"
+    },
+    {
+      "POST_ID": 101,
+      "USER_ID": 1,
+      "TOPIC": "The Future of AI in Content Creation",
+      "TONE": "Thought Leadership",
+      "CONTENT": "AI won't replace content creators. But creators who master AI will replace those who don't.\n\nHere are 3 shifts happening right now:\n\n1. Speed is no longer a moat — authenticity and perspective are.\n2. Raw drafts are generated in seconds, but editorial judgment takes years to build.\n3. Personalized storytelling wins over generic summaries every single time.\n\nThe real superpower? Using AI as your thought partner, not your ghostwriter.\n\nWhat's your biggest experiment with AI tools this month?",
+      "HASHTAGS": "#ArtificialIntelligence #ContentStrategy #FutureOfWork #Productivity #Marketing",
+      "CREATED_AT": "2026-09-14T18:10:06.475Z"
+    },
+    {
+      "POST_ID": 102,
+      "USER_ID": 1,
+      "TOPIC": "Hitting 10k Followers on LinkedIn",
+      "TONE": "Achievement",
+      "CONTENT": "One year ago today, I had less than 200 followers and zero confidence posting on LinkedIn.\n\nThis week, our community crossed 10,000 professional minds. 🎉\n\nNo viral gimmicks. No pods. Just 3 simple rules:\n\n• Show up 4x a week consistently\n• Share failures as openly as wins\n• Spend 15 minutes engaging with other people's ideas daily\n\nThank you to everyone who reads, comments, and challenges my thinking here.\n\nIf you're hesitating to publish your first post: start today. Your voice matters!",
+      "HASHTAGS": "#Milestone #GrowthMindset #PersonalBranding #LinkedInTips #Gratitude",
+      "CREATED_AT": "2026-09-13T18:10:06.475Z"
+    }
+  ],
+  "templates": [
+    {
+      "TEMPLATE_ID": 1,
+      "NAME": "Problem - Agitate - Solve (PAS)",
+      "CATEGORY": "Thought Leadership",
+      "STRUCTURE": "[Hook]: State a common frustrating industry problem in 1 punchy sentence.\n[Agitate]: Explain why traditional solutions fail and the cost of doing nothing (2-3 bullet points).\n[Solve]: Introduce your counter-intuitive approach or breakthrough framework.\n[Actionable Takeaway]: 3 steps anyone can apply today.\n[CTA]: Question asking audience their current experience with this problem.\n[Hashtags]: 3-5 targeted niche hashtags.",
+      "DESCRIPTION": "High-engagement framework that positions you as an industry authority by solving a real pain point.",
+      "SAMPLE_TOPIC": "Why 80% of data migration projects go over budget"
+    },
+    {
+      "TEMPLATE_ID": 2,
+      "NAME": "Career Milestone & Vulnerable Story",
+      "CATEGORY": "Achievement",
+      "STRUCTURE": "[Hook]: \"3 years ago, I had 0 [metric/opportunity]. Today, I just [Milestone].\"\n[The Struggle]: The moment things looked hopeless (raw and honest).\n[The Turning Point]: The single mindset shift or mentor advice that changed everything.\n[3 Rules I Followed]: Key principles learned the hard way.\n[Gratitude]: Thank team, mentors, and community.\n[CTA]: Encouraging closing message for anyone in the same boat.\n[Hashtags]: 3-5 tags.",
+      "DESCRIPTION": "Inspires your network by sharing the behind-the-scenes journey rather than just humble bragging.",
+      "SAMPLE_TOPIC": "From junior developer to leading a team of 15 engineers"
+    },
+    {
+      "TEMPLATE_ID": 3,
+      "NAME": "The \"X Lessons in Y Years\" Guide",
+      "CATEGORY": "Educational",
+      "STRUCTURE": "[Hook]: \"I have spent [X] years doing [Industry/Skill]. Here are [N] non-obvious lessons I wish I knew earlier:\"\n[Lesson 1]: Bold rule + 1 sentence explanation.\n[Lesson 2]: Bold rule + 1 sentence explanation.\n[Lesson 3]: Bold rule + 1 sentence explanation.\n[Lesson 4]: Bold rule + 1 sentence explanation.\n[Summary]: \"Mastering [Field] isn't about X, it's about Y.\"\n[CTA]: \"Which lesson resonates most with you?\"\n[Hashtags]: #Leadership #Growth #CareerAdvice",
+      "DESCRIPTION": "Bite-sized, listicle-style post that maximizes saves, reposts, and comments.",
+      "SAMPLE_TOPIC": "7 brutal truths about scaling SaaS products"
+    },
+    {
+      "TEMPLATE_ID": 4,
+      "NAME": "The Controversial / Contrarian Take",
+      "CATEGORY": "Thought Leadership",
+      "STRUCTURE": "[Hook]: \"Unpopular opinion: [Common advice] is actually ruining your [Goal].\"\n[Why Most People Agree]: Acknowledge why the cliché became popular.\n[The Hidden Flaw]: Present real data, observations, or case study proving otherwise.\n[Better Alternative]: What high performers do instead.\n[CTA]: \"Do you agree, or am I totally off base here? Tell me in comments.\"\n[Hashtags]: #Productivity #BusinessStrategy #FutureOfWork",
+      "DESCRIPTION": "Sparks intense debate and high comment count by challenging conventional wisdom.",
+      "SAMPLE_TOPIC": "Working 60 hours a week is not a badge of honor"
+    },
+    {
+      "TEMPLATE_ID": 5,
+      "NAME": "Product / Feature Launch with Social Proof",
+      "CATEGORY": "Product Launch",
+      "STRUCTURE": "[Hook]: \"After 6 months of silent building, it's finally live:\"\n[The Why]: The exact frustration that made us build this.\n[What it does in 1 line]: Crystal clear value proposition.\n[Key Capabilities]:\n• Feature 1 (and the outcome it delivers)\n• Feature 2 (and the time it saves)\n• Feature 3 (built for professionals)\n[Special Offer / Access]: Beta link or invitation.\n[CTA]: \"Drop a comment or DM for early access!\"\n[Hashtags]: #BuildInPublic #SaaS #ProductLaunch",
+      "DESCRIPTION": "Generates excitement and qualified leads for your new release or company update.",
+      "SAMPLE_TOPIC": "Launching our automated LinkedIn creator suite"
+    },
+    {
+      "TEMPLATE_ID": 6,
+      "NAME": "We Are Hiring / Team Expansion",
+      "CATEGORY": "Hiring & Career",
+      "STRUCTURE": "[Hook]: \"Our team is growing fast! We're looking for an exceptional [Role] to join us.\"\n[Mission]: What we are building and why it matters.\n[Who you are]: 3-4 qualities of the ideal candidate.\n[What we offer]: Culture, flexibility, compensation, and impact.\n[How to apply]: Simple application process (link or DM).\n[CTA]: \"Please share or tag someone in your network who would be a great fit!\"\n[Hashtags]: #Hiring #TechJobs #RemoteWork",
+      "DESCRIPTION": "High reach hiring post designed for viral reposts and peer tagging.",
+      "SAMPLE_TOPIC": "Hiring Senior Full Stack Engineer (Remote)"
+    }
+  ],
+  "ai_requests": [
+    {
+      "REQUEST_ID": 5,
+      "USER_ID": 1,
+      "PROMPT_TEXT": "Topic: কর্মক্ষেত্রে ধারাবাহিকতা ও সময় ব্যবস্থাপনা, Tone: Thought Leadership, Length: medium",
+      "RESPONSE_TEXT": "প্রতিদিন একই কাজ করে সাফল্যের শিখরে পৌঁছানোর রহস্যটা কি আসলেই কোনো 'শর্টকাট'? মোটেও না!\n\nকর্মক্ষেত্রে আমরা প্রায়ই বড় বড় প্রজেক্ট বা রাতারাতি সাফল্যের পেছনে ছুটি। কিন্তু আমি আমার ক্যারিয়ারে একটি বিষয় বারবার দেখেছি—অসাধারণ সাফল্য আসলে কোনো জাদুকরী মুহূর্ত নয়। এটি হলো ছোট ছোট কাজের প্রতিদিনের ধারাবাহিক...",
+      "MODEL_NAME": "gemini-3.1-flash-lite",
+      "TOKENS_USED": 510,
+      "CREATED_AT": "2026-09-15T18:27:51.962Z"
+    },
+    {
+      "REQUEST_ID": 4,
+      "USER_ID": 1,
+      "PROMPT_TEXT": "Topic: Artificial Intelligence in Content Marketing, Tone: Thought Leadership, Length: medium",
+      "RESPONSE_TEXT": "AI isn't here to replace your creativity; it's here to scale your impact.\n\nThe fear surrounding Artificial Intelligence in content marketing often stems from a misunderstanding of its role. Many believe that if a machine can write a draft, the strategist becomes obsolete. The reality is quite the op...",
+      "MODEL_NAME": "gemini-3.1-flash-lite",
+      "TOKENS_USED": 600,
+      "CREATED_AT": "2026-09-15T18:26:38.091Z"
+    },
+    {
+      "REQUEST_ID": 3,
+      "USER_ID": 1,
+      "PROMPT_TEXT": "Topic: Remote Work Productivity Hacks, Tone: Thought Leadership, Length: medium",
+      "RESPONSE_TEXT": "🚀 Most people overcomplicate Remote Work Productivity Hacks. Here is the 3-step framework that changed everything:\n\n18 months ago, I thought success in this area required 80-hour weeks and constant grind.\n\nThen I realized high performers do 3 things differently:\n\n💡 1. Ruthless Prioritization: Cut ...",
+      "MODEL_NAME": "gemini-3.8-flash",
+      "TOKENS_USED": 350,
+      "CREATED_AT": "2026-09-15T18:26:04.932Z"
+    },
+    {
+      "REQUEST_ID": 2,
+      "USER_ID": 1,
+      "PROMPT_TEXT": "Topic: Updated Post, Tone: Thought Leadership, Length: medium",
+      "RESPONSE_TEXT": "🚀 Most people overcomplicate Updated Post. Here is the 3-step framework that changed everything:\n\n18 months ago, I thought success in this area required 80-hour weeks and constant grind.\n\nThen I realized high performers do 3 things differently:\n\n💡 1. Ruthless Prioritization: Cut the noise and prot...",
+      "MODEL_NAME": "gemini-3.8-flash",
+      "TOKENS_USED": 350,
+      "CREATED_AT": "2026-09-15T18:22:18.924Z"
+    },
+    {
+      "REQUEST_ID": 1,
+      "USER_ID": 1,
+      "PROMPT_TEXT": "Topic: The Future of AI in Content Creation, Tone: Thought Leadership",
+      "RESPONSE_TEXT": "AI won't replace content creators...",
+      "MODEL_NAME": "gemini-3.8-flash",
+      "TOKENS_USED": 342,
+      "CREATED_AT": "2026-09-14T18:10:06.476Z"
+    }
+  ]
+}

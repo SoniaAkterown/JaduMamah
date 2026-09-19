@@ -1,0 +1,6 @@
+{
+  "name": "LinkedIn Post Generator",
+  "description": "AI-powered professional LinkedIn post creator with tone selection, multiple variations, hashtag suggestions, template library, and post history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
