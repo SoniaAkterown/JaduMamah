@@ -91,7 +91,7 @@
 ### Prerequisites
 - [Node.js](https://nodejs.org/) (version 18 or higher recommended)
 - [npm](https://www.npmjs.com/) or [bun](https://bun.sh/)
-- A Google Gemini API Key from [Google AI Studio](https://aistudio.google.com/)
+- A Google Gemini API Key 
 
 ### Installation
 
@@ -151,12 +151,6 @@ All copy, helper hints, platform options, and free tools dynamically switch lang
 
 ---
 
-## 🔒 Security Best Practices
-
-- **Zero Client-Side API Keys**: The `GEMINI_API_KEY` is strictly preserved on the server side; no credentials or secret keys are exposed to the browser.
-- **Sanitized Inputs**: Prompt injection safeguards and proper error handling are implemented on all AI routes.
-
----
 
 ## 📄 License
 
