@@ -1,13 +1,23 @@
-# JaduMamah — AI Social Media & LinkedIn Post Generator 🚀
+<p align="center">
+  <img src="https://github.com/SoniaAkterown/JaduMamah/blob/608320b4465a2c73893807100447640f66ecc34c/Screenshot%202026-09-19%20212204.png" alt="JaduMamah Banner" width="50%">
+</p>
 
-[![React](https://img.shields.io/badge/React-19.0-61DAFB?style=flat&logo=react&logoColor=black)](https://react.dev/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.8-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Vite](https://img.shields.io/badge/Vite-6.2-646CFF?style=flat&logo=vite&logoColor=white)](https://vitejs.dev/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.1-38B2AC?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![Google Gemini](https://img.shields.io/badge/Google_Gemini-2.5_Flash-8E75B2?style=flat&logo=google&logoColor=white)](https://ai.google.dev/)
-[![Express](https://img.shields.io/badge/Express-4.21-000000?style=flat&logo=express&logoColor=white)](https://expressjs.com/)
+<h1 align="center">JaduMamah 🚀</h1>
 
-**JaduMamah** is an AI-powered post generator and creator studio designed to help professionals, growth marketers, and digital creators craft viral, high-converting content for **LinkedIn**, **Facebook**, **Instagram**, and **YouTube**.
+<h3 align="center">AI Social Media & LinkedIn Post Generator</h3>
+
+<p align="center">
+  <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-19.0-61DAFB?style=flat&logo=react&logoColor=black" alt="React"></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-5.8-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"></a>
+  <a href="https://vitejs.dev/"><img src="https://img.shields.io/badge/Vite-6.2-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite"></a>
+  <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind_CSS-4.1-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"></a>
+  <a href="https://ai.google.dev/"><img src="https://img.shields.io/badge/Google_Gemini-2.5_Flash-8E75B2?style=flat&logo=google&logoColor=white" alt="Google Gemini"></a>
+  <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express-4.21-000000?style=flat&logo=express&logoColor=white" alt="Express"></a>
+</p>
+
+<p align="center">
+  <strong>JaduMamah</strong> is an AI-powered post generator and creator studio designed to help professionals, growth marketers, and digital creators craft viral, high-converting content for <strong>LinkedIn</strong>, <strong>Facebook</strong>, <strong>Instagram</strong>, and <strong>YouTube</strong>.
+</p>
 
 ---
 
@@ -152,6 +162,7 @@ All copy, helper hints, platform options, and free tools dynamically switch lang
 ---
 
 
-## 📄 License
+## 📜 License
 
-This project is licensed under the [ Apache-2.0 License](LICENSE).
+* 📄 This project is licensed under the [ Apache-2.0 License](LICENSE).
+* 🛡️ **Security Policy:** For reporting vulnerabilities and security guidelines, please see our **[Security Policy](./SECURITY.md)**.
