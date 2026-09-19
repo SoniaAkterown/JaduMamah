@@ -24,7 +24,6 @@
 ## 🌟 Key Highlights & Features
 
 ### 1. 🤖 AI-Powered Content Creation
-- **Powered by Google Gemini 2.5 Flash**: Crafts engaging hooks, structured post bodies, and call-to-actions (CTAs) that maximize dwell time and engagement.
 - **Custom Prompts & Tone Control**: Generate content for thought leadership, product launches, storytelling, case studies, or career milestones.
 - **Instant AI Touch-Ups**: Polish tone, lengthen, shorten, insert appropriate emojis, or fix grammar with a single click.
 
